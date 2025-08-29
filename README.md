@@ -5,8 +5,6 @@ This project is provided **for educational and research purposes only**.
 It demonstrates how to bundle two executable files into a single distributable package using Python and PyInstaller.  
 Do **not** use this tool for malicious purposes. The authors take **no responsibility** for misuse.  
 
-By keeping this project **open, transparent, and responsibly documented**, it avoids confusion with malware-like tools.
-
 ---
 
 ## 📌 Overview
