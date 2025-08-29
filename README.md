@@ -73,3 +73,8 @@ Possible legitimate use cases include:
 > Packaging a main app + helper tool
 
 > Educational demonstrations of PyInstaller
+
+---
+
+## 💌 Support
+If you found this project helpful, please consider giving it a star or following my profile.
