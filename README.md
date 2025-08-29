@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Tool
 ```bash
-python Inject-EXE.py
+python executable-combiner.py
 ```
 
 ---
