@@ -225,7 +225,7 @@ This tool uses PyInstaller to package both executables into a single distributab
    ░███     ░█████░██ ░██ ░██    ░██   ░██████    ░███████   ░█████░██     ░████ ░██    ░██  ░███████  
                                                                    ░██                                 
                                                              ░███████                                  
-                                                                                                                                                                                                          
+Credits:  https://github.com/VulnScythe                                                                                                                                                                                                          
 """
 
 class ModernUI:
@@ -545,7 +545,7 @@ This tool uses PyInstaller to package both executables into a single distributab
    ░███     ░█████░██ ░██ ░██    ░██   ░██████    ░███████   ░█████░██     ░████ ░██    ░██  ░███████  
                                                                    ░██                                 
                                                              ░███████                                  
-                                                                                                                                                                                                          
+Credits:  https://github.com/VulnScythe                                                                                                                                                                                                          
 """:
         exit()
 
@@ -559,4 +559,5 @@ This tool uses PyInstaller to package both executables into a single distributab
 
 
 if __name__ == "__main__":
+
     main()
